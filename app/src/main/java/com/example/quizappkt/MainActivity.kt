@@ -1,4 +1,4 @@
-package com.example.quizapp
+package com.example.quizappkt
 
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
